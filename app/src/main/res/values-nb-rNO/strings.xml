@@ -87,7 +87,7 @@
     <string name="pref_logging_summary">Lagre logger til eksterne lagringsenheter (/sdcard/logger) for å hjelpe til med feilrapporter.
 \nEndring av denne innstillingen vil tre i effekt ved neste gangs oppstart av Easer.</string>
     <string name="pref_use_root_title">Bruk root-funksjoner</string>
-    <string name="pref_use_root_summary">Bruk root-tilgang for spesifikke funksjoner (programtillegg), som kan hjelpe til å løse kompabilitetsproblemer på noen enheter. Root-tilgang blir ikke brukt annensteds hen.</string>
+    <string name="pref_use_root_summary">Bruk rot-tilgang for spesifikke funksjoner (programtillegg), som kan hjelpe til å løse kompatibilitetsproblemer på noen enheter. Rot-tilgang blir ikke brukt annensteds hen.</string>
     <string name="pref_cooldown_title">Nedkjølingstid</string>
     <string name="pref_cooldown_summary">Minimal intervall mellom to utløsere av samme hendelse</string>
     <string name="cooldown_time_illformed">Nummeret kan ikke være negativt, og ikke større enn 2147483647</string>
