@@ -12,4 +12,11 @@
     <string name="title_condition">条件</string>
     <string name="title_application">应用程序</string>
     <string name="title_activity_history">操作历史记录</string>
+    <string name="title_setting">设定</string>
+    <string name="title_delete">删除</string>
+    <string name="title_about">关于</string>
+    <string name="title_add">添加</string>
+    <string name="title_source">源代码</string>
+    <string name="menu_stop">暂停</string>
+    <string name="menu_action_save">保存</string>
 </resources>
